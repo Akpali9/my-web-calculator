@@ -1,0 +1,27 @@
+.calculator {
+  width: 200px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+ top: 20px;
+}
+
+button {
+  width: 48px;
+  height: 48px;
+  margin: 5px;
+  font-size: 20px;
+}
+body{
+    background-color: rgb(163, 156, 156);
+    width: fit-content;
+}
